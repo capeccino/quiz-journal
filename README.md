@@ -23,14 +23,14 @@ As of June 22, 2017, Improve: Quiz Journal is an early prototype. A user is able
 
 ## Path of Improvement
 
-1 Reassess current code base in an effort to achieve the best possible design.
-2 Add some analysis capabilities.
-3 Improve user interface with stylesheets so that it doesn't look like it was designed in 1993. 
-4 Complete unimplemented features such as import/export of journals/questions.
-5 Provide better facilities for editing journals, questions, entries, answers.
-6 Provide additional elements for a user to choose as part of questions (combo boxes, check boxes, etc).
-7 Provide a means for adding logic to entry flow, such that the answer to a question can determine which questions come next.
-8 Improve and expand current features.
+1. Reassess current code base in an effort to achieve the best possible design.
+2. Add some analysis capabilities.
+3. Improve user interface with stylesheets so that it doesn't look like it was designed in 1993. 
+4. Complete unimplemented features such as import/export of journals/questions.
+5. Provide better facilities for editing journals, questions, entries, answers.
+6. Provide additional elements for a user to choose as part of questions (combo boxes, check boxes, etc).
+7. Provide a means for adding logic to entry flow, such that the answer to a question can determine which questions come next.
+8. Improve and expand current features.
 
 ## Contributing
 
